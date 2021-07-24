@@ -10,15 +10,18 @@
 * [JavaScript Algorithms and Data Structures](https://github.com/trekhleb/javascript-algorithms)
 * [Principles of Writing Consistent, Idiomatic JavaScript](https://github.com/rwaldron/idiomatic.js)
 * [Airbnb JavaScript Style Guide() {](https://github.com/airbnb/javascript)
+
 ## React.js
 * [React patterns](https://reactpatterns.com/)
 * [Awesome React](https://github.com/enaqx/awesome-react)
 * [How to create a React frontend and a Node/Express backend and connect them](https://www.freecodecamp.org/news/create-a-react-frontend-a-node-express-backend-and-connect-them-together-c5798926047c/)
+* [Why Do We Write super(props)?](https://overreacted.io/why-do-we-write-super-props/)
 
 ## Node.js
 * [Node.js Best Practices](https://github.com/goldbergyoni/nodebestpractices)
 
 ## API
+* [REST vs GraphQL - What's the best kind of API?](https://www.youtube.com/watch?v=PeAOEAmR0D0&list=LL&index=40)
 * [GraphQL Authentication using OAuth & JSON Web Tokens](https://itnext.io/graphql-authentication-using-oauth-json-web-tokens-bdb829602a5c)
 * [How to build a GraphQL Server Using Node.js](https://www.section.io/engineering-education/build-a-graphql-server-using-nodejs/)
 * [Designing a GraphQL API](https://docs.aws.amazon.com/appsync/latest/devguide/designing-a-graphql-api.html)
@@ -30,7 +33,7 @@
 
 ## Networking
 * [High Performance Browser Networking](https://hpbn.co/)
-
+* [VIDEO] [HTTP Crash Course & Exploration](https://www.youtube.com/watch?v=iYM2zFP3Zn0&list=LL&index=11) 
 
 ## Design
 * [Atomic Web Design](https://bradfrost.com/blog/post/atomic-web-design/)
@@ -41,7 +44,7 @@
 * [Commit messages guide](https://github.com/RomuloOliveira/commit-messages-guide)
 * [Comparing Workflows](https://www.atlassian.com/git/tutorials/comparing-workflows#gitflow-workflow)
 * [git-tips](https://github.com/git-tips/tips)
-
+* [VIDEO] [A Better Git Workflow with Rebase](https://www.youtube.com/watch?v=f1wnYdLEpgI&list=LL&index=5) 
 
 ## OAuth
 * [OAuth 2 Simplified](https://aaronparecki.com/oauth-2-simplified/#web-server-apps)
@@ -52,6 +55,7 @@
 * [dennyscott.io](https://dennyscott.io/)
 
 ## Other
+* [VIDEO] [What is JWT authorization really about - Java Brains](https://www.youtube.com/watch?v=soGRyl9ztjI&list=LL&index=18) 
 * [Web Development for Beginners - A Curriculum](https://github.com/microsoft/Web-Dev-For-Beginners)
 * [Beautiful NPM Icon packages for your next web project](https://dev.to/ziqinyeow/beautiful-npm-icon-packages-for-your-next-web-project-5266)
 * [Chrome Extensions 101](https://dev.to/venkyakshaya/chrome-extensions-101-3dif)
