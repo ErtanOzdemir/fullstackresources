@@ -32,6 +32,7 @@
 * [Introduction to Mongoose for MongoDB](https://www.freecodecamp.org/news/introduction-to-mongoose-for-mongodb-d2a7aa593c57/)
 
 ## Networking
+* [How HTTPS works ...in a comic! ](https://howhttps.works/)
 * [High Performance Browser Networking](https://hpbn.co/)
 * [VIDEO] [HTTP Crash Course & Exploration](https://www.youtube.com/watch?v=iYM2zFP3Zn0&list=LL&index=11) 
 
