@@ -54,7 +54,7 @@
 
 ## Personal Blogs
 * [dennyscott.io](https://dennyscott.io/)
-* [Brian Holt] (https://github.com/btholt/)
+* [Brian Holt](https://github.com/btholt/)
 
 ## Other
 * [VIDEO] [What is JWT authorization really about - Java Brains](https://www.youtube.com/watch?v=soGRyl9ztjI&list=LL&index=18) 
