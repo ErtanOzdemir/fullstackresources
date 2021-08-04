@@ -6,6 +6,11 @@
 * [Micro Frontends](https://martinfowler.com/articles/micro-frontends.html)
 * [Abstract syntax tree](https://en.wikipedia.org/wiki/Abstract_syntax_tree)
 
+
+## CSS
+* [CSS Selector Reference](https://www.w3schools.com/cssref/css_selectors.asp)
+
+
 ## JavaScript
 * [JavaScript Algorithms and Data Structures](https://github.com/trekhleb/javascript-algorithms)
 * [Principles of Writing Consistent, Idiomatic JavaScript](https://github.com/rwaldron/idiomatic.js)
