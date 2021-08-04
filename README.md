@@ -35,6 +35,7 @@
 
 ## Database
 * [Introduction to Mongoose for MongoDB](https://www.freecodecamp.org/news/introduction-to-mongoose-for-mongodb-d2a7aa593c57/)
+* [Express Tutorial Part 3: Using a Database (with Mongoose)](https://developer.mozilla.org/en-US/docs/Learn/Server-side/Express_Nodejs/mongoose)
 
 ## Networking
 * [How HTTPS works ...in a comic! ](https://howhttps.works/)
