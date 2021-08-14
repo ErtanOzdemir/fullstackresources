@@ -63,6 +63,7 @@
 * [Brian Holt](https://github.com/btholt/)
 
 ## Other
+* [How Browsers Work: Behind the scenes of modern web browsers](https://www.html5rocks.com/en/tutorials/internals/howbrowserswork/)
 * [VIDEO] [What is JWT authorization really about - Java Brains](https://www.youtube.com/watch?v=soGRyl9ztjI&list=LL&index=18) 
 * [Web Development for Beginners - A Curriculum](https://github.com/microsoft/Web-Dev-For-Beginners)
 * [Beautiful NPM Icon packages for your next web project](https://dev.to/ziqinyeow/beautiful-npm-icon-packages-for-your-next-web-project-5266)
