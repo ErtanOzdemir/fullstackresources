@@ -62,6 +62,9 @@
 * [dennyscott.io](https://dennyscott.io/)
 * [Brian Holt](https://github.com/btholt/)
 
+## Non-coding
+* [Tips for software engineering internships](https://www.shubhro.com/2014/10/15/tips-for-internships/)
+
 ## Other
 * [How Browsers Work: Behind the scenes of modern web browsers](https://www.html5rocks.com/en/tutorials/internals/howbrowserswork/)
 * [VIDEO] [What is JWT authorization really about - Java Brains](https://www.youtube.com/watch?v=soGRyl9ztjI&list=LL&index=18) 
