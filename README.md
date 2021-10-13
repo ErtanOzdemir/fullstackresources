@@ -72,3 +72,4 @@
 * [Beautiful NPM Icon packages for your next web project](https://dev.to/ziqinyeow/beautiful-npm-icon-packages-for-your-next-web-project-5266)
 * [Chrome Extensions 101](https://dev.to/venkyakshaya/chrome-extensions-101-3dif)
 * [Junior developer tips](https://junior-dev-tips.netlify.app/)
+* [How To Ask Questions The Smart Way](http://catb.org/~esr/faqs/smart-questions.html)
