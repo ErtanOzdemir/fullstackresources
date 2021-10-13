@@ -58,6 +58,10 @@
 * [OAuth implementation with Node.js and Github](https://www.loginradius.com/blog/async/oAuth-implemenation-using-node/)
 * [OAuth 2.0](https://oauth.net/2/)
 
+## Courses
+* [Full-Stack Open](https://fullstackopen.com/en/)
+* [The Odin Project](https://www.theodinproject.com/)
+
 ## Personal Blogs
 * [dennyscott.io](https://dennyscott.io/)
 * [Brian Holt](https://github.com/btholt/)
