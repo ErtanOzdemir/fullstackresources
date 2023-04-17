@@ -1,4 +1,5 @@
-# Resources for Full Stack Developers
+
+  # Resources for Full Stack Developers
 
 ## Software Architecture and Guidelines
 * [Project Guidelines](https://github.com/elsewhencode/project-guidelines)
@@ -77,3 +78,6 @@
 * [Chrome Extensions 101](https://dev.to/venkyakshaya/chrome-extensions-101-3dif)
 * [Junior developer tips](https://junior-dev-tips.netlify.app/)
 * [How To Ask Questions The Smart Way](http://catb.org/~esr/faqs/smart-questions.html)
+
+  * [Building a scalable PR review process. | by Games24x7 Engineering | Medium](https://medium.com/@Games24x7Tech/building-a-scalable-pr-review-process-b0c8ef8dbea0)
+  
