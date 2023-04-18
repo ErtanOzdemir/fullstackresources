@@ -1,6 +1,7 @@
 
   
   
+  
   # Resources for Full Stack Developers
 
 ## Software Architecture and Guidelines
@@ -87,4 +88,7 @@
   
   
   * [Shared database](https://microservices.io/patterns/data/shared-database.html)
+  
+  
+  * [Password, Session, Cookie, Token, JWT, SSO, OAuth - Authentication Explained - Part 1](https://blog.bytebytego.com/p/password-session-cookie-token-jwt)
   
