@@ -2,6 +2,7 @@
   
   
   
+  
   # Resources for Full Stack Developers
 
 ## Software Architecture and Guidelines
@@ -91,4 +92,7 @@
   
   
   * [Password, Session, Cookie, Token, JWT, SSO, OAuth - Authentication Explained - Part 1](https://blog.bytebytego.com/p/password-session-cookie-token-jwt)
+  
+  
+  * [Load Balancing](https://samwho.dev/load-balancing/?ck_subscriber_id=1653807613)
   
