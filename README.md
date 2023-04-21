@@ -3,6 +3,7 @@
   
   
   
+  
   # Resources for Full Stack Developers
 
 ## Software Architecture and Guidelines
@@ -95,4 +96,7 @@
   
   
   * [Load Balancing](https://samwho.dev/load-balancing/?ck_subscriber_id=1653807613)
+  
+  
+  * [Shields.io: Quality metadata badges for open source projects](https://shields.io/category/license)
   
