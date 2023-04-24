@@ -4,6 +4,7 @@
   
   
   
+  
   # Resources for Full Stack Developers
 
 ## Software Architecture and Guidelines
@@ -99,4 +100,7 @@
   
   
   * [Shields.io: Quality metadata badges for open source projects](https://shields.io/category/license)
+  
+  
+  * [JavaScript Visualized: Promises & Async/Await - DEV Community](https://dev.to/lydiahallie/javascript-visualized-promises-async-await-5gke)
   
