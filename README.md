@@ -6,6 +6,7 @@
   
   
   
+  
   # Resources for Full Stack Developers
 
 ## Software Architecture and Guidelines
@@ -107,4 +108,7 @@
   
   
   * [Promises In Javascript A Complete Guide For 2019 - DEV Community](https://dev.to/nileshsanyal/promises-in-javascript-a-complete-guide-for-2019-4o99)
+  
+  
+  * [TypeScript Decorators: A complete guide](https://deadsimplechat.com/blog/typescript-decorators-a-complete-guide/?ck_subscriber_id=1653807613)
   
