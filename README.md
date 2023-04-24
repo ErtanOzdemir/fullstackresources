@@ -5,6 +5,7 @@
   
   
   
+  
   # Resources for Full Stack Developers
 
 ## Software Architecture and Guidelines
@@ -103,4 +104,7 @@
   
   
   * [JavaScript Visualized: Promises & Async/Await - DEV Community](https://dev.to/lydiahallie/javascript-visualized-promises-async-await-5gke)
+  
+  
+  * [Promises In Javascript A Complete Guide For 2019 - DEV Community](https://dev.to/nileshsanyal/promises-in-javascript-a-complete-guide-for-2019-4o99)
   
