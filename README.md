@@ -7,6 +7,7 @@
   
   
   
+  
   # Resources for Full Stack Developers
 
 ## Software Architecture and Guidelines
@@ -111,4 +112,7 @@
   
   
   * [TypeScript Decorators: A complete guide](https://deadsimplechat.com/blog/typescript-decorators-a-complete-guide/?ck_subscriber_id=1653807613)
+  
+  
+  * [dbdiagram.io - Database Relationship Diagrams Design Tool](https://dbdiagram.io/home)
   
