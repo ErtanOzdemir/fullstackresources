@@ -8,6 +8,7 @@
   
   
   
+  
   # Resources for Full Stack Developers
 
 ## Software Architecture and Guidelines
@@ -115,4 +116,7 @@
   
   
   * [dbdiagram.io - Database Relationship Diagrams Design Tool](https://dbdiagram.io/home)
+  
+  
+  * [Patterns.dev - Modern Web App Design Patterns](https://www.patterns.dev/)
   
