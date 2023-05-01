@@ -9,6 +9,7 @@
   
   
   
+  
   # Resources for Full Stack Developers
 
 ## Software Architecture and Guidelines
@@ -119,4 +120,7 @@
   
   
   * [Patterns.dev - Modern Web App Design Patterns](https://www.patterns.dev/)
+  
+  
+  * [SST Guide](https://sst.dev/guide.html)
   
