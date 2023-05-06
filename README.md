@@ -10,6 +10,7 @@
   
   
   
+  
   # Resources for Full Stack Developers
 
 ## Software Architecture and Guidelines
@@ -123,4 +124,7 @@
   
   
   * [SST Guide](https://sst.dev/guide.html)
+  
+  
+  * [Your Guide to HTTP Authorization Header | C7 Blog](https://compile7.org/decompile/authorization-request-headers-explained/)
   
