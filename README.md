@@ -11,6 +11,7 @@
   
   
   
+  
   # Resources for Full Stack Developers
 
 ## Software Architecture and Guidelines
@@ -127,4 +128,7 @@
   
   
   * [Your Guide to HTTP Authorization Header | C7 Blog](https://compile7.org/decompile/authorization-request-headers-explained/)
+  
+  
+  * [Practical Guide To Not Blocking The Event Loop :: Building Better Software Slower](https://www.bbss.dev/posts/eventloop/?ck_subscriber_id=1653807613)
   
