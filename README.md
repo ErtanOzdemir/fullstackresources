@@ -13,6 +13,7 @@
   
   
   
+  
   # Resources for Full Stack Developers
 
 ## Software Architecture and Guidelines
@@ -135,4 +136,7 @@
   
   
   * [Beyond Vercel: Hosting Alternatives for Next.js](https://thetombomb.com/posts/nextjs-hosting-alternatives)
+  
+  
+  * [Building a modern design system in layers](https://blog.almaer.com/building-a-modern-design-system-in-layers/?ck_subscriber_id=1653807613)
   
