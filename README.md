@@ -12,6 +12,7 @@
   
   
   
+  
   # Resources for Full Stack Developers
 
 ## Software Architecture and Guidelines
@@ -131,4 +132,7 @@
   
   
   * [Practical Guide To Not Blocking The Event Loop :: Building Better Software Slower](https://www.bbss.dev/posts/eventloop/?ck_subscriber_id=1653807613)
+  
+  
+  * [Beyond Vercel: Hosting Alternatives for Next.js](https://thetombomb.com/posts/nextjs-hosting-alternatives)
   
