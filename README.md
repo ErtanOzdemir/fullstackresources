@@ -14,6 +14,7 @@
   
   
   
+  
   # Resources for Full Stack Developers
 
 ## Software Architecture and Guidelines
@@ -139,4 +140,7 @@
   
   
   * [Building a modern design system in layers](https://blog.almaer.com/building-a-modern-design-system-in-layers/?ck_subscriber_id=1653807613)
+  
+  
+  * [Microservices](https://martinfowler.com/articles/microservices.html)
   
