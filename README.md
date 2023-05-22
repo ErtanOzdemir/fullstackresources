@@ -15,6 +15,7 @@
   
   
   
+  
   # Resources for Full Stack Developers
 
 ## Software Architecture and Guidelines
@@ -143,4 +144,7 @@
   
   
   * [Microservices](https://martinfowler.com/articles/microservices.html)
+  
+  
+  * [How To Ask Questions? - Redd](https://redd.one/blog/how-to-ask-questions)
   
