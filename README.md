@@ -16,6 +16,7 @@
   
   
   
+  
   # Resources for Full Stack Developers
 
 ## Software Architecture and Guidelines
@@ -147,4 +148,7 @@
   
   
   * [How To Ask Questions? - Redd](https://redd.one/blog/how-to-ask-questions)
+  
+  
+  * [Redd](https://redd.one/)
   
