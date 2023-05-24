@@ -17,6 +17,7 @@
   
   
   
+  
   # Resources for Full Stack Developers
 
 ## Software Architecture and Guidelines
@@ -151,4 +152,7 @@
   
   
   * [Redd](https://redd.one/)
+  
+  
+  * [ossjobs.dev - find your dream job in open-source](https://www.ossjobs.dev/)
   
