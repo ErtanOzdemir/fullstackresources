@@ -19,6 +19,7 @@
   
   
   
+  
   # Resources for Full Stack Developers
 
 ## Software Architecture and Guidelines
@@ -159,4 +160,7 @@
   
   
   * [DevTools Tips](https://devtoolstips.org/5/)
+  
+  
+  * [Scroll-driven Animations](https://scroll-driven-animations.style/#demos)
   
