@@ -20,6 +20,7 @@
   
   
   
+  
   # Resources for Full Stack Developers
 
 ## Software Architecture and Guidelines
@@ -163,4 +164,7 @@
   
   
   * [Scroll-driven Animations](https://scroll-driven-animations.style/#demos)
+  
+  
+  * [Best Practices for Logging in Node.js | AppSignal Blog](https://blog.appsignal.com/2021/09/01/best-practices-for-logging-in-nodejs.html)
   
