@@ -21,6 +21,7 @@
   
   
   
+  
   # Resources for Full Stack Developers
 
 ## Software Architecture and Guidelines
@@ -167,4 +168,7 @@
   
   
   * [Best Practices for Logging in Node.js | AppSignal Blog](https://blog.appsignal.com/2021/09/01/best-practices-for-logging-in-nodejs.html)
+  
+  
+  * [How large DOM sizes affect interactivity, and what you can do about it](https://web.dev/dom-size-and-interactivity/?ck_subscriber_id=1653807613)
   
