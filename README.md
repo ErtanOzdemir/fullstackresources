@@ -22,6 +22,7 @@
   
   
   
+  
   # Resources for Full Stack Developers
 
 ## Software Architecture and Guidelines
@@ -171,4 +172,7 @@
   
   
   * [How large DOM sizes affect interactivity, and what you can do about it](https://web.dev/dom-size-and-interactivity/?ck_subscriber_id=1653807613)
+  
+  
+  * [API Gateway in Microservices Architecture - DZone](https://dzone.com/articles/introduction-to-api-gateway-in-microservices-architecture)
   
