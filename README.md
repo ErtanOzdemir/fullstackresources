@@ -24,6 +24,7 @@
   
   
   
+  
   # Resources for Full Stack Developers
 
 ## Software Architecture and Guidelines
@@ -179,4 +180,7 @@
   
   
   * [Software Engineer interviews: Everything you need to prepare | Tech Interview Handbook](https://www.techinterviewhandbook.org/software-engineering-interview-guide)
+  
+  
+  * [The modern way of serving images](https://kurtextrem.de/posts/modern-way-of-img)
   
