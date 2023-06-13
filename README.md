@@ -23,6 +23,7 @@
   
   
   
+  
   # Resources for Full Stack Developers
 
 ## Software Architecture and Guidelines
@@ -175,4 +176,7 @@
   
   
   * [API Gateway in Microservices Architecture - DZone](https://dzone.com/articles/introduction-to-api-gateway-in-microservices-architecture)
+  
+  
+  * [Software Engineer interviews: Everything you need to prepare | Tech Interview Handbook](https://www.techinterviewhandbook.org/software-engineering-interview-guide)
   
