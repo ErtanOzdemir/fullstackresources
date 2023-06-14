@@ -25,6 +25,7 @@
   
   
   
+  
   # Resources for Full Stack Developers
 
 ## Software Architecture and Guidelines
@@ -183,4 +184,7 @@
   
   
   * [The modern way of serving images](https://kurtextrem.de/posts/modern-way-of-img)
+  
+  
+  * [The Good Docs Project](https://thegooddocsproject.dev/)
   
