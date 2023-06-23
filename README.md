@@ -26,6 +26,7 @@
   
   
   
+  
   # Resources for Full Stack Developers
 
 ## Software Architecture and Guidelines
@@ -187,4 +188,7 @@
   
   
   * [The Good Docs Project](https://thegooddocsproject.dev/)
+  
+  
+  * [An Introduction to Streaming on the Web](https://vercel.com/blog/an-introduction-to-streaming-on-the-web)
   
