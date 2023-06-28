@@ -27,6 +27,7 @@
   
   
   
+  
   # Resources for Full Stack Developers
 
 ## Software Architecture and Guidelines
@@ -191,4 +192,7 @@
   
   
   * [An Introduction to Streaming on the Web](https://vercel.com/blog/an-introduction-to-streaming-on-the-web)
+  
+  
+  * [Networking 101 Google Cloud reference sheet version 2 | Google Cloud Blog](https://cloud.google.com/blog/products/networking/networking-101-google-cloud-reference-sheet-version-2/)
   
