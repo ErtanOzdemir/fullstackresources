@@ -28,6 +28,7 @@
   
   
   
+  
   # Resources for Full Stack Developers
 
 ## Software Architecture and Guidelines
@@ -195,4 +196,7 @@
   
   
   * [Networking 101 Google Cloud reference sheet version 2 | Google Cloud Blog](https://cloud.google.com/blog/products/networking/networking-101-google-cloud-reference-sheet-version-2/)
+  
+  
+  * [career-ladders](https://career-ladders.dev/?ck_subscriber_id=1653807613)
   
