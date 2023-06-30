@@ -29,6 +29,7 @@
   
   
   
+  
   # Resources for Full Stack Developers
 
 ## Software Architecture and Guidelines
@@ -199,4 +200,7 @@
   
   
   * [career-ladders](https://career-ladders.dev/?ck_subscriber_id=1653807613)
+  
+  
+  * [Web Launch Checklist](https://codepen.io/oxla/pen/awmMYY)
   
