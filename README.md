@@ -30,6 +30,7 @@
   
   
   
+  
   # Resources for Full Stack Developers
 
 ## Software Architecture and Guidelines
@@ -203,4 +204,7 @@
   
   
   * [Web Launch Checklist](https://codepen.io/oxla/pen/awmMYY)
+  
+  
+  * [Technical Interview Guide for Busy Engineers | Tech Interview Handbook](https://www.techinterviewhandbook.org/)
   
