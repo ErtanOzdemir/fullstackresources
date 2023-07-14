@@ -31,6 +31,7 @@
   
   
   
+  
   # Resources for Full Stack Developers
 
 ## Software Architecture and Guidelines
@@ -207,4 +208,7 @@
   
   
   * [Technical Interview Guide for Busy Engineers | Tech Interview Handbook](https://www.techinterviewhandbook.org/)
+  
+  
+  * [Learn Prompting: Your Guide to Communicating with AI](https://learnprompting.org/)
   
