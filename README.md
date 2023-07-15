@@ -32,6 +32,7 @@
   
   
   
+  
   # Resources for Full Stack Developers
 
 ## Software Architecture and Guidelines
@@ -211,4 +212,7 @@
   
   
   * [Learn Prompting: Your Guide to Communicating with AI](https://learnprompting.org/)
+  
+  
+  * [Designing a Scraping Platform: Generic Scrapers vs. Targeted Scrapers | HackerNoon](https://hackernoon.com/design-of-a-scraping-platform?source=rss)
   
