@@ -33,6 +33,7 @@
   
   
   
+  
   # Resources for Full Stack Developers
 
 ## Software Architecture and Guidelines
@@ -215,4 +216,7 @@
   
   
   * [Designing a Scraping Platform: Generic Scrapers vs. Targeted Scrapers | HackerNoon](https://hackernoon.com/design-of-a-scraping-platform?source=rss)
+  
+  
+  * [38 Stories To Learn About Oop | HackerNoon](https://hackernoon.com/38-stories-to-learn-about-oop?source=rss)
   
