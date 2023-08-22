@@ -34,6 +34,7 @@
   
   
   
+  
   # Resources for Full Stack Developers
 
 ## Software Architecture and Guidelines
@@ -219,4 +220,7 @@
   
   
   * [38 Stories To Learn About Oop | HackerNoon](https://hackernoon.com/38-stories-to-learn-about-oop?source=rss)
+  
+  
+  * [How we reduced the size of our JavaScript bundles by 33% - Dropbox](https://dropbox.tech/frontend/how-we-reduced-the-size-of-our-javascript-bundles-by-33-percent)
   
