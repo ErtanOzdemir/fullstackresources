@@ -35,6 +35,7 @@
   
   
   
+  
   # Resources for Full Stack Developers
 
 ## Software Architecture and Guidelines
@@ -223,4 +224,7 @@
   
   
   * [How we reduced the size of our JavaScript bundles by 33% - Dropbox](https://dropbox.tech/frontend/how-we-reduced-the-size-of-our-javascript-bundles-by-33-percent)
+  
+  
+  * [The Design System Guide](https://thedesignsystem.guide/design-audit)
   
