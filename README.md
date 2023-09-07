@@ -38,6 +38,7 @@
   
   
   
+  
   # Resources for Full Stack Developers
 
 ## Software Architecture and Guidelines
@@ -235,4 +236,7 @@
   
   
   * [Diátaxis -A systematic approach to technical documentation authoring.](https://diataxis.fr/)
+  
+  
+  * [Introduction. Constants · cardinalby](https://cardinalby.github.io/blog/post/github-actions/webext/1-introduction/)
   
