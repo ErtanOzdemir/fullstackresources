@@ -37,6 +37,7 @@
   
   
   
+  
   # Resources for Full Stack Developers
 
 ## Software Architecture and Guidelines
@@ -231,4 +232,7 @@
   
   
   * [Mermaid | Diagramming and charting tool](https://mermaid.js.org/)
+  
+  
+  * [Diátaxis -A systematic approach to technical documentation authoring.](https://diataxis.fr/)
   
