@@ -36,6 +36,7 @@
   
   
   
+  
   # Resources for Full Stack Developers
 
 ## Software Architecture and Guidelines
@@ -227,4 +228,7 @@
   
   
   * [The Design System Guide](https://thedesignsystem.guide/design-audit)
+  
+  
+  * [Mermaid | Diagramming and charting tool](https://mermaid.js.org/)
   
