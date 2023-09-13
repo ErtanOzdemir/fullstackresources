@@ -39,6 +39,7 @@
   
   
   
+  
   # Resources for Full Stack Developers
 
 ## Software Architecture and Guidelines
@@ -239,4 +240,7 @@
   
   
   * [Introduction. Constants · cardinalby](https://cardinalby.github.io/blog/post/github-actions/webext/1-introduction/)
+  
+  
+  * [IntroductionThe complete GraphQL API Gateway guide](https://graphql-api-gateway.com/)
   
